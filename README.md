@@ -267,7 +267,7 @@ The system continuously aligns to user intent through:
 
 ## Organization: TechSecure DevOps Team
 
-```markdown
+
 # .claude.md - Global Configuration for TechSecure DevOps
 
 ## 1. Tone and Style Rules
